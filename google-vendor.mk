@@ -19,6 +19,7 @@ include frameworks/base/data/sounds/AllAudio.mk
 
 # Google Applications
 PRODUCT_COPY_FILES += \
+    vendor/google/prebuilt/app/CalendarGoogle.apk:system/app/CalendarGoogle.apk \
     vendor/google/prebuilt/app/CarHomeGoogle.apk:system/app/CarHomeGoogle.apk \
     vendor/google/prebuilt/app/ChromeBookmarksSyncAdapter.apk:system/app/ChromeBookmarksSyncAdapter.apk \
     vendor/google/prebuilt/app/FaceLock.apk:system/app/FaceLock.apk \
