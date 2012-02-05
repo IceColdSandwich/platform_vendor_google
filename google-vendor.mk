@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/GenieWidget.apk:system/app/GenieWidget.apk \
     vendor/google/prebuilt/app/Gmail.apk:system/app/Gmail.apk \
     vendor/google/prebuilt/app/GoogleBackupTransport.apk:system/app/GoogleBackupTransport.apk \
+    vendor/google/prebuilt/app/GoogleContactsSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
     vendor/google/prebuilt/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
     vendor/google/prebuilt/app/GoogleLoginService.apk:system/app/GoogleLoginService.apk \
     vendor/google/prebuilt/app/GoogleMusic.apk:system/app/GoogleMusic.apk \
@@ -38,6 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
     vendor/google/prebuilt/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
     vendor/google/prebuilt/app/Phonesky.apk:system/app/Phonesky.apk \
+    vendor/google/prebuilt/app/PicasaSyncAdapter.apk:system/app/PicasaSyncAdapter.apk \
     vendor/google/prebuilt/app/SetupWizard.apk:system/app/SetupWizard.apk \
     vendor/google/prebuilt/app/TagGoogle.apk:system/app/TagGoogle.apk \
     vendor/google/prebuilt/app/Talk.apk:system/app/Talk.apk \
