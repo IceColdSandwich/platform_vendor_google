@@ -41,13 +41,13 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/MediaUploader.apk:system/app/MediaUploader.apk \
     vendor/google/prebuilt/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
     vendor/google/prebuilt/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
-    vendor/google/prebuilt/app/Phonesky.apk:system/app/Phonesky.apk \
     vendor/google/prebuilt/app/PicasaSyncAdapter.apk:system/app/PicasaSyncAdapter.apk \
     vendor/google/prebuilt/app/SetupWizard.apk:system/app/SetupWizard.apk \
     vendor/google/prebuilt/app/TagGoogle.apk:system/app/TagGoogle.apk \
     vendor/google/prebuilt/app/Talk.apk:system/app/Talk.apk \
     vendor/google/prebuilt/app/Thinkfree.apk:system/app/Thinkfree.apk \
     vendor/google/prebuilt/app/Videos.apk:system/app/Videos.apk \
+    vendor/google/prebuilt/app/Vending.apk:system/app/Vending.apk \
     vendor/google/prebuilt/app/VoiceSearch.apk:system/app/VoiceSearch.apk \
     vendor/google/prebuilt/app/YouTube.apk:system/app/YouTube.apk
 
