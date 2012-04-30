@@ -46,7 +46,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/Talk.apk:system/app/Talk.apk \
     vendor/google/prebuilt/app/Thinkfree.apk:system/app/Thinkfree.apk \
     vendor/google/prebuilt/app/Videos.apk:system/app/Videos.apk \
-    vendor/google/prebuilt/app/GooglePlayStorev3516.apk:system/app/Vending.apk \
+    vendor/google/prebuilt/app/Phonesky.apk:system/app/Phonesky.apk \
     vendor/google/prebuilt/app/VoiceSearch.apk:system/app/VoiceSearch.apk \
     vendor/google/prebuilt/app/YouTube.apk:system/app/YouTube.apk
 
