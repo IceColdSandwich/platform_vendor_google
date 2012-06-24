@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/app/GoogleLoginService.apk:system/app/GoogleLoginService.apk \
     vendor/google/prebuilt/app/GoogleMusic.apk:system/app/GoogleMusic.apk \
     vendor/google/prebuilt/app/GooglePartnerSetup.apk:system/app/GooglePartnerSetup.apk \
-    vendor/google/prebuilt/app/GoogleQuickSearchBox.apk:system/app/GoogleQuickSearchBox.apk \
     vendor/google/prebuilt/app/GoogleServicesFramework.apk:system/app/GoogleServicesFramework.apk \
     vendor/google/prebuilt/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
     vendor/google/prebuilt/app/LatinImeDictionaryPack.apk:system/app/LatinImeDictionaryPack.apk \
